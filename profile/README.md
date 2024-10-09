@@ -1,8 +1,17 @@
-## Hi there 👋! Welcome to Sensefinity!
+# Welcome to Sensefinity!
 
-[Sensefinity Website](https://sensefinity.com)
+Worldwide Real-time Connection and Analytics and Machine Learning for Assets in global supply-chains.
 
-"It is easy to shoot your foot off with git,
-but also easy to revert to a previous foot and merge it with your current leg." - Jack William Bell  
+## Contacts
 
-[Gitmoji](https://gitmoji.dev/)
+```
+Tec Labs
+Campus FCUL
+Campo Grande 016
+1749-016 Lisboa
+Portugal
+```
+
+[Sensefinity](https://sensefinity.com)
+
+[Open Ticket](https://sensefinity.freshdesk.com/support/tickets/new)
